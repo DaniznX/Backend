@@ -1,4 +1,4 @@
-#from django.shortcuts import render
+from django.shortcuts import render
 from rest_framework import viewsets
 from .serializer import Nacionalidad_Serializer, Autor_Serializer, Comuna_Serializer, Direccion_Serializer, Biblioteca_Serializer, Lector_Serializer, Libro_Serializer, Categoria_Serializer, Prestamo_Serializer,TipoCategoria_Serializer
 from .models import Nacionalidad, Autor, Comuna, Biblioteca, Prestamo, Libro, Lector, Direccion, Categoria, TipoCategoria
@@ -45,3 +45,7 @@ class Categoria_ViewSet(viewsets.ModelViewSet):
     queryset = Categoria.objects.all()
     serializer_class = Categoria_Serializer
 
+
+
+def pagina_html(request):
+    return render(request, 'primera_app/index.html')

@@ -1,6 +1,6 @@
 [
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 1,
     "fields": {
       "codigo_comuna": "01101",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 2,
     "fields": {
       "codigo_comuna": "01107",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 3,
     "fields": {
       "codigo_comuna": "01401",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 4,
     "fields": {
       "codigo_comuna": "01402",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 5,
     "fields": {
       "codigo_comuna": "01403",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 6,
     "fields": {
       "codigo_comuna": "01404",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 7,
     "fields": {
       "codigo_comuna": "01405",
@@ -63,7 +63,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 8,
     "fields": {
       "codigo_comuna": "02101",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 9,
     "fields": {
       "codigo_comuna": "02102",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 10,
     "fields": {
       "codigo_comuna": "02103",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 11,
     "fields": {
       "codigo_comuna": "02104",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 12,
     "fields": {
       "codigo_comuna": "02201",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 13,
     "fields": {
       "codigo_comuna": "02202",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 14,
     "fields": {
       "codigo_comuna": "02203",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 15,
     "fields": {
       "codigo_comuna": "02301",
@@ -135,7 +135,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 16,
     "fields": {
       "codigo_comuna": "02302",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 17,
     "fields": {
       "codigo_comuna": "03101",
@@ -153,7 +153,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 18,
     "fields": {
       "codigo_comuna": "03102",
@@ -162,7 +162,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 19,
     "fields": {
       "codigo_comuna": "03103",
@@ -171,7 +171,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 20,
     "fields": {
       "codigo_comuna": "03201",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 21,
     "fields": {
       "codigo_comuna": "03202",
@@ -189,7 +189,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 22,
     "fields": {
       "codigo_comuna": "03301",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 23,
     "fields": {
       "codigo_comuna": "03302",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 24,
     "fields": {
       "codigo_comuna": "03303",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 25,
     "fields": {
       "codigo_comuna": "03304",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 26,
     "fields": {
       "codigo_comuna": "04101",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 27,
     "fields": {
       "codigo_comuna": "04102",
@@ -243,7 +243,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 28,
     "fields": {
       "codigo_comuna": "04103",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 29,
     "fields": {
       "codigo_comuna": "04104",
@@ -261,7 +261,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 30,
     "fields": {
       "codigo_comuna": "04105",
@@ -270,7 +270,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 31,
     "fields": {
       "codigo_comuna": "04106",
@@ -279,7 +279,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 32,
     "fields": {
       "codigo_comuna": "04201",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 33,
     "fields": {
       "codigo_comuna": "04202",
@@ -297,7 +297,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 34,
     "fields": {
       "codigo_comuna": "04203",
@@ -306,7 +306,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 35,
     "fields": {
       "codigo_comuna": "04204",
@@ -315,7 +315,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 36,
     "fields": {
       "codigo_comuna": "04301",
@@ -324,7 +324,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 37,
     "fields": {
       "codigo_comuna": "04302",
@@ -333,7 +333,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 38,
     "fields": {
       "codigo_comuna": "04303",
@@ -342,7 +342,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 39,
     "fields": {
       "codigo_comuna": "04304",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 40,
     "fields": {
       "codigo_comuna": "04305",
@@ -360,7 +360,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 41,
     "fields": {
       "codigo_comuna": "05101",
@@ -369,7 +369,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 42,
     "fields": {
       "codigo_comuna": "05102",
@@ -378,7 +378,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 43,
     "fields": {
       "codigo_comuna": "05103",
@@ -387,7 +387,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 44,
     "fields": {
       "codigo_comuna": "05104",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 45,
     "fields": {
       "codigo_comuna": "05105",
@@ -405,7 +405,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 46,
     "fields": {
       "codigo_comuna": "05107",
@@ -414,7 +414,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 47,
     "fields": {
       "codigo_comuna": "05108",
@@ -423,7 +423,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 48,
     "fields": {
       "codigo_comuna": "05201",
@@ -432,7 +432,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 49,
     "fields": {
       "codigo_comuna": "05301",
@@ -441,7 +441,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 50,
     "fields": {
       "codigo_comuna": "05302",
@@ -450,7 +450,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 51,
     "fields": {
       "codigo_comuna": "05303",
@@ -459,7 +459,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 52,
     "fields": {
       "codigo_comuna": "05304",
@@ -468,7 +468,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 53,
     "fields": {
       "codigo_comuna": "05305",
@@ -477,7 +477,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 54,
     "fields": {
       "codigo_comuna": "05306",
@@ -486,7 +486,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 55,
     "fields": {
       "codigo_comuna": "05307",
@@ -495,7 +495,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 56,
     "fields": {
       "codigo_comuna": "05308",
@@ -504,7 +504,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 57,
     "fields": {
       "codigo_comuna": "05309",
@@ -513,7 +513,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 58,
     "fields": {
       "codigo_comuna": "05310",
@@ -522,7 +522,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 59,
     "fields": {
       "codigo_comuna": "05311",
@@ -531,7 +531,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 60,
     "fields": {
       "codigo_comuna": "05312",
@@ -540,7 +540,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 61,
     "fields": {
       "codigo_comuna": "05313",
@@ -549,7 +549,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 62,
     "fields": {
       "codigo_comuna": "05314",
@@ -558,7 +558,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 63,
     "fields": {
       "codigo_comuna": "05315",
@@ -567,7 +567,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 64,
     "fields": {
       "codigo_comuna": "05316",
@@ -576,7 +576,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 65,
     "fields": {
       "codigo_comuna": "05317",
@@ -585,7 +585,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 66,
     "fields": {
       "codigo_comuna": "05401",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 67,
     "fields": {
       "codigo_comuna": "05501",
@@ -603,7 +603,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 68,
     "fields": {
       "codigo_comuna": "05502",
@@ -612,7 +612,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 69,
     "fields": {
       "codigo_comuna": "05503",
@@ -621,7 +621,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 70,
     "fields": {
       "codigo_comuna": "05504",
@@ -630,7 +630,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 71,
     "fields": {
       "codigo_comuna": "05505",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 72,
     "fields": {
       "codigo_comuna": "05601",
@@ -648,7 +648,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 73,
     "fields": {
       "codigo_comuna": "05602",
@@ -657,7 +657,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 74,
     "fields": {
       "codigo_comuna": "05603",
@@ -666,7 +666,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 75,
     "fields": {
       "codigo_comuna": "05604",
@@ -675,7 +675,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 76,
     "fields": {
       "codigo_comuna": "05605",
@@ -684,7 +684,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 77,
     "fields": {
       "codigo_comuna": "05606",
@@ -693,7 +693,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 78,
     "fields": {
       "codigo_comuna": "06101",
@@ -702,7 +702,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 79,
     "fields": {
       "codigo_comuna": "06102",
@@ -711,7 +711,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 80,
     "fields": {
       "codigo_comuna": "06103",
@@ -720,7 +720,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 81,
     "fields": {
       "codigo_comuna": "06104",
@@ -729,7 +729,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 82,
     "fields": {
       "codigo_comuna": "06105",
@@ -738,7 +738,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 83,
     "fields": {
       "codigo_comuna": "06106",
@@ -747,7 +747,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 84,
     "fields": {
       "codigo_comuna": "06107",
@@ -756,7 +756,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 85,
     "fields": {
       "codigo_comuna": "06108",
@@ -765,7 +765,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 86,
     "fields": {
       "codigo_comuna": "06109",
@@ -774,7 +774,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 87,
     "fields": {
       "codigo_comuna": "06110",
@@ -783,7 +783,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 88,
     "fields": {
       "codigo_comuna": "06111",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 89,
     "fields": {
       "codigo_comuna": "06112",
@@ -801,7 +801,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 90,
     "fields": {
       "codigo_comuna": "06113",
@@ -810,7 +810,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 91,
     "fields": {
       "codigo_comuna": "06114",
@@ -819,7 +819,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 92,
     "fields": {
       "codigo_comuna": "06115",
@@ -828,7 +828,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 93,
     "fields": {
       "codigo_comuna": "06116",
@@ -837,7 +837,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 94,
     "fields": {
       "codigo_comuna": "06117",
@@ -846,7 +846,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 95,
     "fields": {
       "codigo_comuna": "06201",
@@ -855,7 +855,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 96,
     "fields": {
       "codigo_comuna": "06202",
@@ -864,7 +864,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 97,
     "fields": {
       "codigo_comuna": "06203",
@@ -873,7 +873,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 98,
     "fields": {
       "codigo_comuna": "06204",
@@ -882,7 +882,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 99,
     "fields": {
       "codigo_comuna": "06205",
@@ -891,7 +891,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 100,
     "fields": {
       "codigo_comuna": "06206",
@@ -900,7 +900,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 101,
     "fields": {
       "codigo_comuna": "06207",
@@ -909,7 +909,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 102,
     "fields": {
       "codigo_comuna": "06208",
@@ -918,7 +918,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 103,
     "fields": {
       "codigo_comuna": "06209",
@@ -927,7 +927,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 104,
     "fields": {
       "codigo_comuna": "06210",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 105,
     "fields": {
       "codigo_comuna": "06211",
@@ -945,7 +945,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 106,
     "fields": {
       "codigo_comuna": "06212",
@@ -954,7 +954,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 107,
     "fields": {
       "codigo_comuna": "06213",
@@ -963,7 +963,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 108,
     "fields": {
       "codigo_comuna": "06214",
@@ -972,7 +972,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 109,
     "fields": {
       "codigo_comuna": "06301",
@@ -981,7 +981,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 110,
     "fields": {
       "codigo_comuna": "07101",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 111,
     "fields": {
       "codigo_comuna": "07102",
@@ -999,7 +999,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 112,
     "fields": {
       "codigo_comuna": "07103",
@@ -1008,7 +1008,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 113,
     "fields": {
       "codigo_comuna": "07104",
@@ -1017,7 +1017,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 114,
     "fields": {
       "codigo_comuna": "07105",
@@ -1026,7 +1026,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 115,
     "fields": {
       "codigo_comuna": "07106",
@@ -1035,7 +1035,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 116,
     "fields": {
       "codigo_comuna": "07107",
@@ -1044,7 +1044,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 117,
     "fields": {
       "codigo_comuna": "07108",
@@ -1053,7 +1053,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 118,
     "fields": {
       "codigo_comuna": "07109",
@@ -1062,7 +1062,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 119,
     "fields": {
       "codigo_comuna": "07110",
@@ -1071,7 +1071,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 120,
     "fields": {
       "codigo_comuna": "07201",
@@ -1080,7 +1080,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 121,
     "fields": {
       "codigo_comuna": "07202",
@@ -1089,7 +1089,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 122,
     "fields": {
       "codigo_comuna": "07203",
@@ -1098,7 +1098,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 123,
     "fields": {
       "codigo_comuna": "07301",
@@ -1107,7 +1107,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 124,
     "fields": {
       "codigo_comuna": "07302",
@@ -1116,7 +1116,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 125,
     "fields": {
       "codigo_comuna": "07303",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 126,
     "fields": {
       "codigo_comuna": "07304",
@@ -1134,7 +1134,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 127,
     "fields": {
       "codigo_comuna": "07305",
@@ -1143,7 +1143,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 128,
     "fields": {
       "codigo_comuna": "07306",
@@ -1152,7 +1152,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 129,
     "fields": {
       "codigo_comuna": "07307",
@@ -1161,7 +1161,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 130,
     "fields": {
       "codigo_comuna": "07308",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 131,
     "fields": {
       "codigo_comuna": "07309",
@@ -1179,7 +1179,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 132,
     "fields": {
       "codigo_comuna": "07401",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 133,
     "fields": {
       "codigo_comuna": "07402",
@@ -1197,7 +1197,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 134,
     "fields": {
       "codigo_comuna": "07403",
@@ -1206,7 +1206,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 135,
     "fields": {
       "codigo_comuna": "07404",
@@ -1215,7 +1215,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 136,
     "fields": {
       "codigo_comuna": "07405",
@@ -1224,7 +1224,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 137,
     "fields": {
       "codigo_comuna": "07406",
@@ -1233,7 +1233,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 138,
     "fields": {
       "codigo_comuna": "07407",
@@ -1242,7 +1242,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 139,
     "fields": {
       "codigo_comuna": "07408",
@@ -1251,7 +1251,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 140,
     "fields": {
       "codigo_comuna": "08101",
@@ -1260,7 +1260,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 141,
     "fields": {
       "codigo_comuna": "08102",
@@ -1269,7 +1269,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 142,
     "fields": {
       "codigo_comuna": "08103",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 143,
     "fields": {
       "codigo_comuna": "08104",
@@ -1287,7 +1287,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 144,
     "fields": {
       "codigo_comuna": "08105",
@@ -1296,7 +1296,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 145,
     "fields": {
       "codigo_comuna": "08106",
@@ -1305,7 +1305,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 146,
     "fields": {
       "codigo_comuna": "08107",
@@ -1314,7 +1314,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 147,
     "fields": {
       "codigo_comuna": "08108",
@@ -1323,7 +1323,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 148,
     "fields": {
       "codigo_comuna": "08109",
@@ -1332,7 +1332,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 149,
     "fields": {
       "codigo_comuna": "08110",
@@ -1341,7 +1341,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 150,
     "fields": {
       "codigo_comuna": "08111",
@@ -1350,7 +1350,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 151,
     "fields": {
       "codigo_comuna": "08112",
@@ -1359,7 +1359,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 152,
     "fields": {
       "codigo_comuna": "08201",
@@ -1368,7 +1368,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 153,
     "fields": {
       "codigo_comuna": "08202",
@@ -1377,7 +1377,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 154,
     "fields": {
       "codigo_comuna": "08203",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 155,
     "fields": {
       "codigo_comuna": "08204",
@@ -1395,7 +1395,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 156,
     "fields": {
       "codigo_comuna": "08205",
@@ -1404,7 +1404,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 157,
     "fields": {
       "codigo_comuna": "08206",
@@ -1413,7 +1413,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 158,
     "fields": {
       "codigo_comuna": "08207",
@@ -1422,7 +1422,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 159,
     "fields": {
       "codigo_comuna": "08301",
@@ -1431,7 +1431,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 160,
     "fields": {
       "codigo_comuna": "08302",
@@ -1440,7 +1440,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 161,
     "fields": {
       "codigo_comuna": "08303",
@@ -1449,7 +1449,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 162,
     "fields": {
       "codigo_comuna": "08304",
@@ -1458,7 +1458,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 163,
     "fields": {
       "codigo_comuna": "08305",
@@ -1467,7 +1467,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 164,
     "fields": {
       "codigo_comuna": "08306",
@@ -1476,7 +1476,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 165,
     "fields": {
       "codigo_comuna": "08307",
@@ -1485,7 +1485,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 166,
     "fields": {
       "codigo_comuna": "08308",
@@ -1494,7 +1494,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 167,
     "fields": {
       "codigo_comuna": "08309",
@@ -1503,7 +1503,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 168,
     "fields": {
       "codigo_comuna": "08310",
@@ -1512,7 +1512,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 169,
     "fields": {
       "codigo_comuna": "08311",
@@ -1521,7 +1521,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 170,
     "fields": {
       "codigo_comuna": "08312",
@@ -1530,7 +1530,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 171,
     "fields": {
       "codigo_comuna": "08313",
@@ -1539,7 +1539,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 172,
     "fields": {
       "codigo_comuna": "08314",
@@ -1548,7 +1548,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 173,
     "fields": {
       "codigo_comuna": "09101",
@@ -1557,7 +1557,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 174,
     "fields": {
       "codigo_comuna": "09102",
@@ -1566,7 +1566,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 175,
     "fields": {
       "codigo_comuna": "09103",
@@ -1575,7 +1575,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 176,
     "fields": {
       "codigo_comuna": "09104",
@@ -1584,7 +1584,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 177,
     "fields": {
       "codigo_comuna": "09105",
@@ -1593,7 +1593,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 178,
     "fields": {
       "codigo_comuna": "09106",
@@ -1602,7 +1602,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 179,
     "fields": {
       "codigo_comuna": "09107",
@@ -1611,7 +1611,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 180,
     "fields": {
       "codigo_comuna": "09108",
@@ -1620,7 +1620,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 181,
     "fields": {
       "codigo_comuna": "09109",
@@ -1629,7 +1629,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 182,
     "fields": {
       "codigo_comuna": "09110",
@@ -1638,7 +1638,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 183,
     "fields": {
       "codigo_comuna": "09111",
@@ -1647,7 +1647,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 184,
     "fields": {
       "codigo_comuna": "09112",
@@ -1656,7 +1656,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 185,
     "fields": {
       "codigo_comuna": "09113",
@@ -1665,7 +1665,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 186,
     "fields": {
       "codigo_comuna": "09114",
@@ -1674,7 +1674,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 187,
     "fields": {
       "codigo_comuna": "09115",
@@ -1683,7 +1683,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 188,
     "fields": {
       "codigo_comuna": "09116",
@@ -1692,7 +1692,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 189,
     "fields": {
       "codigo_comuna": "09117",
@@ -1701,7 +1701,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 190,
     "fields": {
       "codigo_comuna": "09118",
@@ -1710,7 +1710,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 191,
     "fields": {
       "codigo_comuna": "09119",
@@ -1719,7 +1719,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 192,
     "fields": {
       "codigo_comuna": "09120",
@@ -1728,7 +1728,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 193,
     "fields": {
       "codigo_comuna": "09201",
@@ -1737,7 +1737,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 194,
     "fields": {
       "codigo_comuna": "09202",
@@ -1746,7 +1746,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 195,
     "fields": {
       "codigo_comuna": "09203",
@@ -1755,7 +1755,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 196,
     "fields": {
       "codigo_comuna": "09204",
@@ -1764,7 +1764,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 197,
     "fields": {
       "codigo_comuna": "09205",
@@ -1773,7 +1773,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 198,
     "fields": {
       "codigo_comuna": "09206",
@@ -1782,7 +1782,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 199,
     "fields": {
       "codigo_comuna": "09207",
@@ -1791,7 +1791,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 200,
     "fields": {
       "codigo_comuna": "09208",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 201,
     "fields": {
       "codigo_comuna": "09209",
@@ -1809,7 +1809,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 202,
     "fields": {
       "codigo_comuna": "09210",
@@ -1818,7 +1818,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 203,
     "fields": {
       "codigo_comuna": "09211",
@@ -1827,7 +1827,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 204,
     "fields": {
       "codigo_comuna": "10101",
@@ -1836,7 +1836,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 205,
     "fields": {
       "codigo_comuna": "10102",
@@ -1845,7 +1845,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 206,
     "fields": {
       "codigo_comuna": "10103",
@@ -1854,7 +1854,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 207,
     "fields": {
       "codigo_comuna": "10104",
@@ -1863,7 +1863,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 208,
     "fields": {
       "codigo_comuna": "10105",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 209,
     "fields": {
       "codigo_comuna": "10106",
@@ -1881,7 +1881,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 210,
     "fields": {
       "codigo_comuna": "10107",
@@ -1890,7 +1890,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 211,
     "fields": {
       "codigo_comuna": "10108",
@@ -1899,7 +1899,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 212,
     "fields": {
       "codigo_comuna": "10109",
@@ -1908,7 +1908,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 213,
     "fields": {
       "codigo_comuna": "10110",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 214,
     "fields": {
       "codigo_comuna": "10201",
@@ -1926,7 +1926,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 215,
     "fields": {
       "codigo_comuna": "10202",
@@ -1935,7 +1935,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 216,
     "fields": {
       "codigo_comuna": "10203",
@@ -1944,7 +1944,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 217,
     "fields": {
       "codigo_comuna": "10204",
@@ -1953,7 +1953,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 218,
     "fields": {
       "codigo_comuna": "10205",
@@ -1962,7 +1962,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 219,
     "fields": {
       "codigo_comuna": "10206",
@@ -1971,7 +1971,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 220,
     "fields": {
       "codigo_comuna": "10207",
@@ -1980,7 +1980,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 221,
     "fields": {
       "codigo_comuna": "10208",
@@ -1989,7 +1989,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 222,
     "fields": {
       "codigo_comuna": "10209",
@@ -1998,7 +1998,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 223,
     "fields": {
       "codigo_comuna": "10210",
@@ -2007,7 +2007,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 224,
     "fields": {
       "codigo_comuna": "10301",
@@ -2016,7 +2016,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 225,
     "fields": {
       "codigo_comuna": "10302",
@@ -2025,7 +2025,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 226,
     "fields": {
       "codigo_comuna": "10303",
@@ -2034,7 +2034,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 227,
     "fields": {
       "codigo_comuna": "10304",
@@ -2043,7 +2043,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 228,
     "fields": {
       "codigo_comuna": "10305",
@@ -2052,7 +2052,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 229,
     "fields": {
       "codigo_comuna": "10306",
@@ -2061,7 +2061,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 230,
     "fields": {
       "codigo_comuna": "10307",
@@ -2070,7 +2070,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 231,
     "fields": {
       "codigo_comuna": "10401",
@@ -2079,7 +2079,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 232,
     "fields": {
       "codigo_comuna": "10402",
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 233,
     "fields": {
       "codigo_comuna": "10403",
@@ -2097,7 +2097,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 234,
     "fields": {
       "codigo_comuna": "10404",
@@ -2106,7 +2106,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 235,
     "fields": {
       "codigo_comuna": "11101",
@@ -2115,7 +2115,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 236,
     "fields": {
       "codigo_comuna": "11102",
@@ -2124,7 +2124,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 237,
     "fields": {
       "codigo_comuna": "11201",
@@ -2133,7 +2133,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 238,
     "fields": {
       "codigo_comuna": "11202",
@@ -2142,7 +2142,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 239,
     "fields": {
       "codigo_comuna": "11203",
@@ -2151,7 +2151,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 240,
     "fields": {
       "codigo_comuna": "11301",
@@ -2160,7 +2160,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 241,
     "fields": {
       "codigo_comuna": "11302",
@@ -2169,7 +2169,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 242,
     "fields": {
       "codigo_comuna": "11303",
@@ -2178,7 +2178,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 243,
     "fields": {
       "codigo_comuna": "11401",
@@ -2187,7 +2187,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 244,
     "fields": {
       "codigo_comuna": "11402",
@@ -2196,7 +2196,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 245,
     "fields": {
       "codigo_comuna": "12101",
@@ -2205,7 +2205,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 246,
     "fields": {
       "codigo_comuna": "12102",
@@ -2214,7 +2214,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 247,
     "fields": {
       "codigo_comuna": "12103",
@@ -2223,7 +2223,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 248,
     "fields": {
       "codigo_comuna": "12104",
@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 249,
     "fields": {
       "codigo_comuna": "12201",
@@ -2241,7 +2241,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 250,
     "fields": {
       "codigo_comuna": "12202",
@@ -2250,7 +2250,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 251,
     "fields": {
       "codigo_comuna": "12301",
@@ -2259,7 +2259,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 252,
     "fields": {
       "codigo_comuna": "12302",
@@ -2268,7 +2268,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 253,
     "fields": {
       "codigo_comuna": "12303",
@@ -2277,7 +2277,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 254,
     "fields": {
       "codigo_comuna": "12401",
@@ -2286,7 +2286,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 255,
     "fields": {
       "codigo_comuna": "12402",
@@ -2295,7 +2295,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 256,
     "fields": {
       "codigo_comuna": "13101",
@@ -2304,7 +2304,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 257,
     "fields": {
       "codigo_comuna": "13102",
@@ -2313,7 +2313,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 258,
     "fields": {
       "codigo_comuna": "13103",
@@ -2322,7 +2322,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 259,
     "fields": {
       "codigo_comuna": "13104",
@@ -2331,7 +2331,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 260,
     "fields": {
       "codigo_comuna": "13105",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 261,
     "fields": {
       "codigo_comuna": "13106",
@@ -2349,7 +2349,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 262,
     "fields": {
       "codigo_comuna": "13107",
@@ -2358,7 +2358,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 263,
     "fields": {
       "codigo_comuna": "13108",
@@ -2367,7 +2367,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 264,
     "fields": {
       "codigo_comuna": "13109",
@@ -2376,7 +2376,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 265,
     "fields": {
       "codigo_comuna": "13110",
@@ -2385,7 +2385,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 266,
     "fields": {
       "codigo_comuna": "13111",
@@ -2394,7 +2394,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 267,
     "fields": {
       "codigo_comuna": "13112",
@@ -2403,7 +2403,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 268,
     "fields": {
       "codigo_comuna": "13113",
@@ -2412,7 +2412,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 269,
     "fields": {
       "codigo_comuna": "13114",
@@ -2421,7 +2421,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 270,
     "fields": {
       "codigo_comuna": "13115",
@@ -2430,7 +2430,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 271,
     "fields": {
       "codigo_comuna": "13116",
@@ -2439,7 +2439,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 272,
     "fields": {
       "codigo_comuna": "13117",
@@ -2448,7 +2448,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 273,
     "fields": {
       "codigo_comuna": "13118",
@@ -2457,7 +2457,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 274,
     "fields": {
       "codigo_comuna": "13119",
@@ -2466,7 +2466,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 275,
     "fields": {
       "codigo_comuna": "13120",
@@ -2475,7 +2475,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 276,
     "fields": {
       "codigo_comuna": "13121",
@@ -2484,7 +2484,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 277,
     "fields": {
       "codigo_comuna": "13122",
@@ -2493,7 +2493,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 278,
     "fields": {
       "codigo_comuna": "13123",
@@ -2502,7 +2502,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 279,
     "fields": {
       "codigo_comuna": "13124",
@@ -2511,7 +2511,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 280,
     "fields": {
       "codigo_comuna": "13125",
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 281,
     "fields": {
       "codigo_comuna": "13126",
@@ -2529,7 +2529,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 282,
     "fields": {
       "codigo_comuna": "13127",
@@ -2538,7 +2538,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 283,
     "fields": {
       "codigo_comuna": "13128",
@@ -2547,7 +2547,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 284,
     "fields": {
       "codigo_comuna": "13129",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 285,
     "fields": {
       "codigo_comuna": "13130",
@@ -2565,7 +2565,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 286,
     "fields": {
       "codigo_comuna": "13131",
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 287,
     "fields": {
       "codigo_comuna": "13201",
@@ -2583,7 +2583,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 288,
     "fields": {
       "codigo_comuna": "13202",
@@ -2592,7 +2592,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 289,
     "fields": {
       "codigo_comuna": "13203",
@@ -2601,7 +2601,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 290,
     "fields": {
       "codigo_comuna": "13301",
@@ -2610,7 +2610,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 291,
     "fields": {
       "codigo_comuna": "13302",
@@ -2619,7 +2619,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 292,
     "fields": {
       "codigo_comuna": "13303",
@@ -2628,7 +2628,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 293,
     "fields": {
       "codigo_comuna": "13401",
@@ -2637,7 +2637,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 294,
     "fields": {
       "codigo_comuna": "13402",
@@ -2646,7 +2646,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 295,
     "fields": {
       "codigo_comuna": "13403",
@@ -2655,7 +2655,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 296,
     "fields": {
       "codigo_comuna": "13404",
@@ -2664,7 +2664,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 297,
     "fields": {
       "codigo_comuna": "13501",
@@ -2673,7 +2673,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 298,
     "fields": {
       "codigo_comuna": "13502",
@@ -2682,7 +2682,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 299,
     "fields": {
       "codigo_comuna": "13503",
@@ -2691,7 +2691,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 300,
     "fields": {
       "codigo_comuna": "13504",
@@ -2700,7 +2700,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 301,
     "fields": {
       "codigo_comuna": "13505",
@@ -2709,7 +2709,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 302,
     "fields": {
       "codigo_comuna": "13601",
@@ -2718,7 +2718,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 303,
     "fields": {
       "codigo_comuna": "13602",
@@ -2727,7 +2727,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 304,
     "fields": {
       "codigo_comuna": "13603",
@@ -2736,7 +2736,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 305,
     "fields": {
       "codigo_comuna": "13604",
@@ -2745,7 +2745,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 306,
     "fields": {
       "codigo_comuna": "13605",
@@ -2754,7 +2754,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 307,
     "fields": {
       "codigo_comuna": "14101",
@@ -2763,7 +2763,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 308,
     "fields": {
       "codigo_comuna": "14102",
@@ -2772,7 +2772,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 309,
     "fields": {
       "codigo_comuna": "14103",
@@ -2781,7 +2781,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 310,
     "fields": {
       "codigo_comuna": "14104",
@@ -2790,7 +2790,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 311,
     "fields": {
       "codigo_comuna": "14105",
@@ -2799,7 +2799,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 312,
     "fields": {
       "codigo_comuna": "14106",
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 313,
     "fields": {
       "codigo_comuna": "14107",
@@ -2817,7 +2817,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 314,
     "fields": {
       "codigo_comuna": "14108",
@@ -2826,7 +2826,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 315,
     "fields": {
       "codigo_comuna": "14201",
@@ -2835,7 +2835,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 316,
     "fields": {
       "codigo_comuna": "14202",
@@ -2844,7 +2844,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 317,
     "fields": {
       "codigo_comuna": "14203",
@@ -2853,7 +2853,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 318,
     "fields": {
       "codigo_comuna": "14204",
@@ -2862,7 +2862,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 319,
     "fields": {
       "codigo_comuna": "15101",
@@ -2871,7 +2871,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 320,
     "fields": {
       "codigo_comuna": "15102",
@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 321,
     "fields": {
       "codigo_comuna": "15201",
@@ -2889,7 +2889,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 322,
     "fields": {
       "codigo_comuna": "15202",
@@ -2898,7 +2898,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 323,
     "fields": {
       "codigo_comuna": "16101",
@@ -2907,7 +2907,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 324,
     "fields": {
       "codigo_comuna": "16102",
@@ -2916,7 +2916,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 325,
     "fields": {
       "codigo_comuna": "16103",
@@ -2925,7 +2925,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 326,
     "fields": {
       "codigo_comuna": "16104",
@@ -2934,7 +2934,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 327,
     "fields": {
       "codigo_comuna": "16105",
@@ -2943,7 +2943,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 328,
     "fields": {
       "codigo_comuna": "16106",
@@ -2952,7 +2952,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 329,
     "fields": {
       "codigo_comuna": "16107",
@@ -2961,7 +2961,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 330,
     "fields": {
       "codigo_comuna": "16108",
@@ -2970,7 +2970,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 331,
     "fields": {
       "codigo_comuna": "16109",
@@ -2979,7 +2979,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 332,
     "fields": {
       "codigo_comuna": "16110",
@@ -2988,7 +2988,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 333,
     "fields": {
       "codigo_comuna": "16111",
@@ -2997,7 +2997,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 334,
     "fields": {
       "codigo_comuna": "16112",
@@ -3006,7 +3006,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 335,
     "fields": {
       "codigo_comuna": "16113",
@@ -3015,7 +3015,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 336,
     "fields": {
       "codigo_comuna": "16114",
@@ -3024,7 +3024,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 337,
     "fields": {
       "codigo_comuna": "16115",
@@ -3033,7 +3033,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 338,
     "fields": {
       "codigo_comuna": "16116",
@@ -3042,7 +3042,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 339,
     "fields": {
       "codigo_comuna": "16117",
@@ -3051,7 +3051,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 340,
     "fields": {
       "codigo_comuna": "16118",
@@ -3060,7 +3060,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 341,
     "fields": {
       "codigo_comuna": "16119",
@@ -3069,7 +3069,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 342,
     "fields": {
       "codigo_comuna": "16120",
@@ -3078,7 +3078,7 @@
     }
   },
   {
-    "model": "biblioteca.comuna",
+    "model": "primera_app.comuna",
     "pk": 343,
     "fields": {
       "codigo_comuna": "16121",
