@@ -1,49 +1,49 @@
 from django.shortcuts import render
 from rest_framework import viewsets
-from .serializer import Nacionalidad_Serializer, Autor_Serializer, Comuna_Serializer, Direccion_Serializer, Biblioteca_Serializer, Lector_Serializer, Libro_Serializer, Categoria_Serializer, Prestamo_Serializer,TipoCategoria_Serializer
+from .serializer import NacionalidadSerializer, AutorSerializer, ComunaSerializer, DireccionSerializer, BibliotecaSerializer, LectorSerializer, LibroSerializer, CategoriaSerializer, PrestamoSerializer,TipoCategoriaSerializer
 from .models import Nacionalidad, Autor, Comuna, Biblioteca, Prestamo, Libro, Lector, Direccion, Categoria, TipoCategoria
 
 # Create your views here.
 class NacionalidadViewSet(viewsets.ModelViewSet):
     queryset = Nacionalidad.objects.all()
-    serializer_class = Nacionalidad_Serializer
+    serializer_class = NacionalidadSerializer
     
 class AutorViewSet(viewsets.ModelViewSet):
     queryset = Autor.objects.all()
-    serializer_class = Autor_Serializer
+    serializer_class = AutorSerializer
 
 class ComunaViewSet(viewsets.ModelViewSet):
     queryset = Comuna.objects.all()
-    serializer_class = Comuna_Serializer
+    serializer_class = ComunaSerializer
 
 class LectorViewSet(viewsets.ModelViewSet):
     queryset = Lector.objects.all()
-    serializer_class = Lector_Serializer
+    serializer_class = LectorSerializer
 
 class LibroViewSet(viewsets.ModelViewSet):
     queryset = Libro.objects.all()
-    serializer_class = Libro_Serializer
+    serializer_class = LibroSerializer
 
 class BibliotecaViewSet(viewsets.ModelViewSet):
     queryset = Biblioteca.objects.all()
-    serializer_class = Biblioteca_Serializer
+    serializer_class = BibliotecaSerializer
 
 class PrestamoViewSet(viewsets.ModelViewSet):
     queryset = Prestamo.objects.all()
-    serializer_class = Prestamo_Serializer
+    serializer_class = PrestamoSerializer
 
 
 class DireccionViewSet(viewsets.ModelViewSet):
     queryset = Direccion.objects.all()
-    serializer_class = Direccion_Serializer
+    serializer_class = DireccionSerializer
 
 class TipoCategoriaViewSet(viewsets.ModelViewSet):
     queryset = TipoCategoria.objects.all()
-    serializer_class = TipoCategoria_Serializer
+    serializer_class = TipoCategoriaSerializer
 
 class CategoriaViewSet(viewsets.ModelViewSet):
     queryset = Categoria.objects.all()
-    serializer_class = Categoria_Serializer
+    serializer_class = CategoriaSerializer
 
 
 
